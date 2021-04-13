@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ajocard Cost Calculator</string>
+    <string name="card_label">Cards:</string>
+</resources>
